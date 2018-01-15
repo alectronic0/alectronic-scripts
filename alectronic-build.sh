@@ -52,6 +52,7 @@ handbrake-cli \
 git \
 git-gui \
 mysql-server \
+libmysqlclient-dev \
 mysql-workbench \
 postgresql \
 postgresql-contrib \
