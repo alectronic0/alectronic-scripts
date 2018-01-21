@@ -136,7 +136,7 @@ dkms
 #Download Deb
 #Skype
 wget -P /tmp/alectronic/skype/ https://go.skype.com/skypeforlinux-64.deb
-sudo dpkg -i /tmp/alectronic/skype/skypeforlinux-64-alpha.deb
+sudo dpkg -i /tmp/alectronic/skype/skypeforlinux-64.deb
 #Slack
 wget -P /tmp/alectronic/slack/ https://downloads.slack-edge.com/linux_releases/slack-desktop-3.0.2-amd64.deb
 sudo dpkg -i /tmp/alectronic/slack/slack*.deb
