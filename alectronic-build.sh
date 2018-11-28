@@ -219,29 +219,6 @@ git clone https://github.com/hackthenight/doom-ai.git
 git clone https://github.com/hackthenight/ProjectAome.git
 git clone https://github.com/hackthenight/cvpiratefilter.git
 
-mkdir -p ~/opt/hacking-science && cd ~/opt/hacking-science
-git clone https://github.com/hacking-science/hacking-science-website.git
-
-mkdir -p ~/opt/dm && cd ~/opt/dm
-git clone https://github.com/hmcts/document-management-store-app.git
-git clone https://github.com/hmcts/document-management-store-api-gateway-web.git
-git clone https://github.com/hmcts/document-management-viewer.git
-git clone https://github.com/hmcts/document-management-performance-tests.git
-git clone https://github.com/hmcts/document-management-integration-tests.git
-git clone https://github.com/hmcts/document-management-smoke-tests.git
-git clone https://github.com/hmcts/document-management-node-demo.git
-git clone https://github.com/hmcts/document-management-java-demo.git
-git clone https://github.com/hmcts/document-management-store-infrastructure.git
-git clone https://github.com/hmcts/document-management-store-postgres-db.git
-
-mkdir -p ~/opt/open-hmcts && cd ~/opt/open-hmcts
-git clone https://github.com/hmcts/document-management-client.git
-git clone https://github.com/hmcts/auth-checker-lib.git
-git clone https://github.com/hmcts/java-logging.git
-git clone https://github.com/hmcts/nodejs-logging.git
-git clone https://github.com/hmcts/nodejs-healthcheck.git
-git clone https://github.com/hmcts/nodejs-info-provider.git
-
 #Other TODO stuff
 
 # Install Lightwork https://www.lwks.com
